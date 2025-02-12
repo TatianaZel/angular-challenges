@@ -7,7 +7,7 @@ import { TimerContainerComponent } from './timer-container.component';
   template: `
     <div class="flex gap-2">
       Video Call Timer:
-      <p class="italic">(should be the default 1000s)</p>
+      <p class="italic">(should be the default 1000ms)</p>
     </div>
     <timer-container />
   `,
